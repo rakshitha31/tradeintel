@@ -12,7 +12,8 @@ class App extends Component {
     return (
        <HashRouter>
          <div>
-            <h1 style={{fontStyle:'courier'}} >TradeIntel  <div style={{float:'right'}}><img src={require('./images/logo2.png')} height={100}/></div></h1>
+        <div style={{float:'left'}}><img src={require('./images/logo2.png')} height={50}/></div>
+            <h1 style={{fontStyle:'courier'}} >TradeIntel</h1>
            
            
            <ul className="header">
