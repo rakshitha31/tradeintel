@@ -10,6 +10,7 @@
     "react-cardstack": "^1.1.0",
     "react-collapsible": "^2.8.0",
     "react-dom": "^16.13.1",
+    "react-fade-in": "^1.1.1",
     "react-mdl": "^2.1.0",
     "react-native-card-flip": "^1.0.6",
     "react-native-cardview": "^2.0.5",
